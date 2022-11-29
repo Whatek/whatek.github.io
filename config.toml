@@ -2,7 +2,7 @@ baseURL = 'https://whatek.github.io'
 languageCode = 'en-us'
 title = 'Zanael Site'
 theme = "Loveit"
-=======
+
 [module]
   [module.hugoVersion]
     extended = true
