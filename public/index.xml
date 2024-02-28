@@ -2,37 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zanael Site</title>
-    <link>https://whatek.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Zanael Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2023 22:53:35 +0200</lastBuildDate><atom:link href="https://whatek.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second Post</title>
-      <link>https://whatek.github.io/posts/2.newpost/</link>
-      <pubDate>Sun, 17 Sep 2023 22:53:35 +0200</pubDate>
-      
-      <guid>https://whatek.github.io/posts/2.newpost/</guid>
-      <description>Drugi post testuje CNAME. Z kitkiem obok &amp;lt;3</description>
-    </item>
-    
+    <lastBuildDate>Tue, 29 Nov 2022 04:04:20 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://whatek.github.io/posts/1.newpost/</link>
+      <link>http://localhost:1313/posts/1.newpost/</link>
       <pubDate>Tue, 29 Nov 2022 04:04:20 +0100</pubDate>
-      
-      <guid>https://whatek.github.io/posts/1.newpost/</guid>
+      <guid>http://localhost:1313/posts/1.newpost/</guid>
       <description>Pierwszy post testujący strone używając Hugo.</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://whatek.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://whatek.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Page about my IT stuff, tutorials or trying to make some games. Trying to fix CNAME problem every push. Test again. If i see it it works Test last time please work! Added &amp;ldquo;cname: zanael.eu to workflow file under publish_dir&amp;rdquo;</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/template/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
