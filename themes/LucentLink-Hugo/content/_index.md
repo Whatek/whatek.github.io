@@ -22,12 +22,7 @@ socials:
 links:
   - href: "https://zanael.eu/game"
     icon: "fas fa-gamepad"
-<<<<<<< HEAD
-    title: "Play the game"
-=======
-    title: "Game"
->>>>>>> bd7eea2e8768580d3d78272f0e5be69c358cbc97
-    description: "Check out my portfolio"
+    description: "Play the game"
   - href: "https://blog.your.site"
     icon: "fas fa-blog"
     title: "My Blog Soon"
