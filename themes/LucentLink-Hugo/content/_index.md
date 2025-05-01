@@ -1,7 +1,7 @@
 ---
 title: "LucentLink"
 # Profile settings
-profileImage: "images/img.jpg"        # path under static/
+profileImage: "images/img.png"        # path under static/
 name: "Zanael"
 description: "Gaming | Anime | And mine Bubu"
 socials:
@@ -20,9 +20,9 @@ socials:
 
 # Link cards
 links:
-  - href: "https://your.site"
-    icon: "fas fa-globe"
-    title: "Personal Website Soon"
+  - href: "https://zanael.eu/game"
+    icon: "fas fa-gamepad"
+    title: "Play the game"
     description: "Check out my portfolio"
   - href: "https://blog.your.site"
     icon: "fas fa-blog"
