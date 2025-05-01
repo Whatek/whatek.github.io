@@ -1,7 +1,7 @@
 ---
 title: "LucentLink"
 # Profile settings
-profileImage: "images/img.jpg"        # path under static/
+profileImage: "images/img.png"        # path under static/
 name: "Zanael"
 description: "Gaming | Anime | And mine Bubu"
 socials:
