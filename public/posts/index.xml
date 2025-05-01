@@ -4,7 +4,7 @@
     <title>Posts on Zanael Site</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Zanael Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Nov 2022 04:04:20 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/1.newpost/</link>
       <pubDate>Tue, 29 Nov 2022 04:04:20 +0100</pubDate>
       <guid>http://localhost:1313/posts/1.newpost/</guid>
-      <description>Pierwszy post testujący strone używając Hugo.</description>
+      <description>&lt;p&gt;Pierwszy post testujący strone używając Hugo.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
